@@ -1,0 +1,1 @@
+ToyCar{id=2, name='Sports Car', quantity=1, fallFrequency=25.0, brand='Hot Wheels', model='Ferrari'}
